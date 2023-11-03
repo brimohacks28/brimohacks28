@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian Maema Kyalo</h1>
 <h3 align="center">A passionate full stack engineer from Nairobi Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/@imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="@imohoods" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
-- 🔭 I’m currently a student at **Alx Africa , KCA UNIVERSITY**
+- 🔭 I’m currently an IT student at KCA UNIVERSITY and Software Engineering at ALX AFRICA**
 
 - 🌱 I’m currently learning **C , Tailwind CSS , Postman APIs , Software Engineering**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **brianmaema28@gmail.com**
 
-- ⚡ Fun fact **I Don't Sleep before a bug is eradicated**
+- ⚡ Fun fact ** i am a problem fixer **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
