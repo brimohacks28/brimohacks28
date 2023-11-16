@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
-- 🔭 I’m currently a Final year  IT student at KCA UNIVERSITY and Software Engineering at ALX AFRICA
+- 🔭 I’m currently  Doing Software Engineering at ALX AFRICA
 
 - 🌱 I’m currently learning **C , Tailwind CSS , Postman APIs , Software Engineering**
 
