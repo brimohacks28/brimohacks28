@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently  Doing Software Engineering at ALX AFRICA
 
-- 🌱 I’m currently learning **C , Tailwind CSS , Postman APIs , Software Engineering**
+- 🌱 I’m currently learning **Python, Tailwind CSS , Postman APIs , Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://briankyaloportfolio.netlify.app/](https://briankyaloportfolio.netlify.app/)
 
