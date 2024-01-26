@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Brian Kyalo</h1>
+<h1 align="center">Hello World 👋, I'm Brian Kyalo </h1>
 <h3 align="center">A passionate full stack engineer from Nairobi Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
-- 🔭 I’m currently  Doing Software Engineering at ALX AFRICA
+- 🔭 front end Web dev at Kiota
 
 - 🌱 I’m currently learning **Python, Tailwind CSS , Postman APIs , Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://briankyaloportfolio.netlify.app/](https://briankyaloportfolio.netlify.app/)
 
-- 💬 Ask me about **Angular , Mysql** , **react**
+- 💬 Ask me about **Angular  , **react**
 
-- 📫 How to reach me **brianmaema28@gmail.com**
+- 📫 reach me **brianmaema28@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
