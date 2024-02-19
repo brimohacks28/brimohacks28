@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Brian Kyalo </h1>
+<h1 align="center">Howdy👋, I'm Brian Kyalo </h1>
 <h3 align="center">A passionate full stack engineer from Nairobi Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
