@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://briankyaloportfolio.netlify.app/](https://briankyaloportfolio.netlify.app/)
 
-- 💬 Ask me about **Angular  , **react**
+- 💬 Ask me about **Angular  , **react** , Network Engineering
 
 - 📫 reach me **brianmaema28@gmail.com**
 
