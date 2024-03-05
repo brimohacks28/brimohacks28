@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
-- 🔭 Front end Web dev at Kiota
+- 🔭 Front end engineer at Kiota
+- mykiota.com
+- 
 
 - 🌱 Field of  **Python, Tailwind CSS , Postman APIs , Software Engineering **
 
