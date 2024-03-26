@@ -5,7 +5,7 @@
 
 - 🔭 Front end engineer at Kiota
 
-- 🌱 Field of  **Python, Tailwind CSS , Postman APIs , Software Engineering **
+- 🌱 Field of  Python, Tailwind CSS , Postman APIs , Software Engineering **
 
 - 👨‍💻 All of my projects are available at [https://briankyaloportfolio.netlify.app/](https://briankyaloportfolio.netlify.app/)
 
