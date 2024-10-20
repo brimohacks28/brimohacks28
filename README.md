@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Brian Kyalo </h1>
-<h3 align="center"> Software Development  || ICT from Nairobi Kenya</h3>
+<h3 align="center"> Software Developer  || ICT from Nairobi Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
