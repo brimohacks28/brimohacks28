@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/imohoods" target="blank"><img src="https://img.shields.io/twitter/follow/@imohoods?logo=twitter&style=for-the-badge" alt="imohoods" /></a> </p>
 
-- 🔭 Frontend web dev at Kiota
+- 🔭 Frontend web dev at IhsanConnect
 
 - 🌱 Tailwind CSS , Postman APIs , Software Engineering **
 
